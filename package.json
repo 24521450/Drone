@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",
-    "concurrently": "latest"
+    "concurrently": "latest",
+    "jsdom": "26.1.0"
   }
 }
